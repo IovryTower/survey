@@ -26,7 +26,7 @@ Android Survey core project for a primary design practice using Android Studio.
 
 
 # The following video is to demonstrate how the application works
-<video src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/008.mp4?raw=true" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/008.mp4?raw=true" controls="controls" width="200" height="300">Your browser does not support MP4 playback!！</video>
 
 
 
