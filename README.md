@@ -18,6 +18,9 @@ Android Survey core project for a primary design practice using Android Studio.
 
 <img src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/fiil.jpg?raw=true" width = 10% height = 10% />
 
+##### Here is a QR code for example.
+<img src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/qr.jpg?raw=true" width = 10% height = 10% />
+
 ### 3、Users carefully answer every question on the questionnaire. After confirming, you can set the saving time and answering place for filling in the questionnaire.
 
 <img src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/time.jpg?raw=true" width = 10% height = 10% />
@@ -26,7 +29,7 @@ Android Survey core project for a primary design practice using Android Studio.
 
 
 # The following video is to demonstrate how the application works
-<video src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/008.mp4?raw=true" controls="controls" width="200" height="300">Your browser does not support MP4 playback!！</video>
+<img src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/008.gif?raw=true" width = 10% height = 10% />
 
 
 
