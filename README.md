@@ -23,3 +23,10 @@ Android Survey core project for a primary design practice using Android Studio.
 <img src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/time.jpg?raw=true" width = 10% height = 10% />
 
 ### 4、After the user completes the questionnaire, use the password lock to exit, and the app will automatically save the data in the database of the mobile phone.
+
+
+# The following video is to demonstrate how the application works
+<video src="https://github.com/IovryTower/survey/blob/master/imagezxlingDemo/app/pho/008.mp4?raw=true" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
+
+
